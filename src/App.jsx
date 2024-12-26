@@ -30,7 +30,7 @@ const App = () => {
     if (session === 'morning') {
       setIsMorning(true);
       setHour(10);
-      setMinute(0);
+      setMinute(20);
       setSecond(0);
     } else {
       setIsMorning(false);
